@@ -44,5 +44,5 @@ project_root/
 
 ## Implementation Details
 ### Image Segmentation
-The image segmentation is implemented using Mask R-CNN from torchvision. The `SegmentationModel` class in `models/segmentation_model.py` handles the segmentation process:
+The image segmentation is implemented using Mask R-CNN from torchvision. The `SegmentationModel` class in `models/segmentation_model.py` handles the segmentation process.
 
