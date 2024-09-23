@@ -42,7 +42,74 @@ project_root/
 └── requirements.txt
 
 
-## Implementation Details
-### Image Segmentation
-The image segmentation is implemented using Mask R-CNN from torchvision. The `SegmentationModel` class in `models/segmentation_model.py` handles the segmentation process.
+## Implementation Details:
+Technical Requirements:
+
+
+Transformers/Deep Learning Models:
+
+1. TensorFlow
+2. PyTorch
+3. Keras
+4. Hugging Face Transformers (e.g., BERT, RoBERTa)
+
+
+AI Models:
+
+1. Segmentation: U-Net, Mask R-CNN, SegNet
+2. Object Detection: YOLO, SSD, Faster R-CNN
+3. OCR: Tesseract, Google Cloud Vision API
+
+
+Data Storage/Management:
+
+1. Relational databases (e.g., MySQL, PostgreSQL)
+2. NoSQL databases (e.g., MongoDB, Cassandra)
+3. Cloud storage (e.g., AWS S3, Google Cloud Storage)
+4. Data warehousing (e.g., Apache Hadoop, Amazon Redshift)
+
+
+Pipeline Integration:
+
+1. Apache Airflow
+2. Kubernetes
+3. Docker
+4. TensorFlow Extended (TFX)
+
+
+Additional Requirements:
+
+1. Python programming language
+2. Containerization (e.g., Docker)
+3. API integration (e.g., RESTful APIs)
+4. Model serving (e.g., TensorFlow Serving, AWS SageMaker)
+
+
+Popular Libraries/Frameworks:
+
+1. OpenCV (computer vision)
+2. scikit-image (image processing)
+3. NLTK/spaCy (NLP)
+4. pandas/numpy (data manipulation)
+
+
+Cloud Platforms:
+
+1. Google Cloud AI Platform
+2. Amazon SageMaker
+3. Microsoft Azure Machine Learning
+4. IBM Watson Studio
+
+
+Architecture:
+
+1. Microservices architecture
+2. Event-driven architecture
+3. Model-as-a-Service (MaaS)
+
+
+
+
+
+
 
